@@ -13,5 +13,7 @@ Happy, Sad, Angry, Fear, Surprise, Disgust, Neutral.
 
 ## References
 For additional information on FER2013: [Paper](http://196.189.45.87/bitstream/123456789/60914/1/7.pdf#page=10)
+
 For getting started with Google Colab: [Colab](https://colab.research.google.com/)
+
 For getting started with Kaggle Challenge: [Kaggle](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data)
